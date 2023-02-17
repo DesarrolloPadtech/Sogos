@@ -115,7 +115,8 @@
                       <span style="font-size: 0.875rem;">AL MES</span>
                     </p>
                     <p class="u-align-center u-custom-font u-font-roboto u-text u-text-6">x12 meses</p>
-                    <a href="#formulario-llamada" class="u-align-center u-border-2 u-border-custom-color-1 u-btn u-button-style u-hover-custom-color-2 u-none u-text-custom-color-1 u-text-hover-white u-btn-1">LO QUIERO</a>
+                    <!--<a href="#formulario-llamada" class="u-align-center u-border-2 u-border-custom-color-1 u-btn u-button-style u-hover-custom-color-2 u-none u-text-custom-color-1 u-text-hover-white u-btn-1">LO QUIERO</a>-->
+                    <a href="/Contratacion" class="u-align-center u-border-2 u-border-custom-color-1 u-btn u-button-style u-hover-custom-color-2 u-none u-text-custom-color-1 u-text-hover-white u-btn-1">LO QUIERO</a>
                   </div>
                 </div>
               </div>
